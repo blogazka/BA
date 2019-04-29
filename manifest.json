@@ -1,7 +1,7 @@
 {
   "name": "BlogAzka.com",
   "short_name": "BlogAzka",
-  "start_url": "https://www.blogazka.com/?amp=1",
+  "start_url": "https://www.blogazka.com/?m=1",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
