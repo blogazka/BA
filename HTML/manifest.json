@@ -1,7 +1,7 @@
 {
-  "name": "Biss-id.xyz",
+  "name": "Biss-id",
   "short_name": "BISS-ID",
-  "start_url": "https://www.biss-id.xyz/?m=1",
+  "start_url": "https://biss-id.blogspot.com/?m=1",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
