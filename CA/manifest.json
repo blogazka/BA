@@ -1,0 +1,38 @@
+{
+  "name": "CARI-SINYAL",
+  "short_name": "CARI-SINYAL",
+  "start_url": "https://www.cari-sinyal.xyz/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Blog seputar Info channel parabola, Biss key, Siaran FTA dan Tips Trik Windows 10.",
+  "icons": [{
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-lZmT5wwYd6w/XSs5bAMLZAI/AAAAAAAAE6A/Zse_lTB-MrI4HEa9DtLyZ54ap-RhjaELQCLcBGAs/s48/android-icon-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-lZmT5wwYd6w/XSs5bAMLZAI/AAAAAAAAE6A/Zse_lTB-MrI4HEa9DtLyZ54ap-RhjaELQCLcBGAs/s72/android-icon-192x192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-lZmT5wwYd6w/XSs5bAMLZAI/AAAAAAAAE6A/Zse_lTB-MrI4HEa9DtLyZ54ap-RhjaELQCLcBGAs/s96/android-icon-192x192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-lZmT5wwYd6w/XSs5bAMLZAI/AAAAAAAAE6A/Zse_lTB-MrI4HEa9DtLyZ54ap-RhjaELQCLcBGAs/s144/android-icon-192x192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-lZmT5wwYd6w/XSs5bAMLZAI/AAAAAAAAE6A/Zse_lTB-MrI4HEa9DtLyZ54ap-RhjaELQCLcBGAs/s168/android-icon-192x192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-lZmT5wwYd6w/XSs5bAMLZAI/AAAAAAAAE6A/Zse_lTB-MrI4HEa9DtLyZ54ap-RhjaELQCLcBGAs/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-GJsMPuHrl7Y/XSs8HRtpyKI/AAAAAAAAE6M/13XAp8gXY64-VBKW4YEX3zIW2iUik_jTQCLcBGAs/s512/logo.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
