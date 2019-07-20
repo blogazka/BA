@@ -1,37 +1,37 @@
 {
   "name": "BlogAzka.com",
   "short_name": "BlogAzka",
-  "start_url": "https://www.blogazka.com/?m=1",
+  "start_url": "https://www.blogazka.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
   "description": "Blog yang membahas seputar blogging, tutorial aplikasi android, tips trik internet, youtube, dan bisnis online.",
   "icons": [{
-    "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s48/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s48/android-icon-192x192.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s72/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s72/android-icon-192x192.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s96/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s96/android-icon-192x192.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s144/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s144/android-icon-192x192.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s168/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s168/android-icon-192x192.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s192/android-icon-192x192.png",
+    "src": "https://2.bp.blogspot.com/-y2I6GIqYl6c/XMcNfHaNKPI/AAAAAAAAEgA/0u2DdTroad4jizM-LwoQKwPN2dcrGKT8QCLcBGAs/s192/android-icon-192x192.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://cdn.staticaly.com/img/3.bp.blogspot.com/-dq3BPaQmf8M/XMcVwrzUJ4I/AAAAAAAAEgo/l3gfSslUicQErfecpervDY42OdXoAmWuQCLcBGAs/s512/logo.png",
+    "src": "https://1.bp.blogspot.com/-odM2JvRvYzA/XTM-F5KdGvI/AAAAAAAAE8A/rakAYxQ_RtYyZhRlInmpaHgZ_eGYyQY1gCLcBGAs/s512/logo.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
